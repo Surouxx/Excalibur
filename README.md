@@ -1,3 +1,3 @@
 # Excalibur
-#Jason's Chatbot
-He is Sigma-Omega's adversary
+Jason's Chatbot
+He is Sigma-Omega's #adversary
